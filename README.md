@@ -1,5 +1,11 @@
 ## Getting Started
 
+My first application on the EVM network that works 
+https://nftdropevm.vercel.app/
+EVM: goerli
+Collection of 96 NFT
+
+
 Create a project using this example:
 
 ```bash
